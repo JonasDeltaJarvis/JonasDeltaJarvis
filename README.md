@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Banner](file:///home/chronos/u-a3ee8c86752a0b4021edd0135feeb8efcd492401/MyFiles/Downloads/Your%20paragraph%20text.png)
 # I'm Jonas Mukendenge
 
 Cambridge A-Level Student | AI & Robotics Enthusiast  
