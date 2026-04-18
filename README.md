@@ -41,6 +41,12 @@ Building intelligent systems that solve real-world problems
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-111111?style=for-the-badge)
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,tensorflow,git,github,vscode&theme=dark" />
+</p>
+
 ## Featured Projects
 
 ### Crucibot (AI Robotics Project)
