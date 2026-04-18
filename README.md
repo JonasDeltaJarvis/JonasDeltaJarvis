@@ -15,34 +15,6 @@ Building intelligent systems that solve real-world problems
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue)
-![C++](https://img.shields.io/badge/C++-blue)
-![Arduino](https://img.shields.io/badge/Arduino-green)
-![Git](https://img.shields.io/badge/Git-orange)
-
-## 🚀 Tech Stack
-
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
-
-### ⚙️ Robotics & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-111111?style=for-the-badge&logo=raspberrypi)
-
-### 🌐 Software & Tools
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode)
-
-### 🧠 Currently Learning
-![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-111111?style=for-the-badge)
-
-## 🚀 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,tensorflow,git,github,vscode&theme=dark" />
 </p>
