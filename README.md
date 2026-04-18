@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="Your paragraph text.png" width="100%" />
 </p>
 
 </br>
