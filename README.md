@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hi There 👋
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
 
 </br>
-## I'm Jonas Mukendenge
+
+I'm Jonas Mukendenge
 
 Cambridge A-Level Student | AI & Robotics Enthusiast  
 Northwestern, Zambia  
