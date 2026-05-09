@@ -1,4 +1,3 @@
-## Hi There 👋
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
@@ -21,7 +20,7 @@ Building intelligent systems that solve real-world problems
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,tensorflow,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,git,github,vscode&theme=dark" />
 </p>
 
 ## Featured Projects
