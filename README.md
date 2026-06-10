@@ -23,16 +23,14 @@ Building intelligent systems that solve real-world problems
   <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,git,github,vscode&theme=dark" />
 </p>
 
-## Featured Projects
+### Featured Projects
 
-### Crucibot (AI Robotics Project)
-- Built a robot capable of picking and dropping fruits 
-- Integrated Raspberrypi + AI logic
-- Focus: Precision control & automation
-
-### Adaptive PID Control with AI
-- Research project combining control systems & machine learning
-- Goal: Improve system stability dynamically
+| Project | Description | Stack |
+|---------|-------------|-------|
+|  **Crucibot** | Fruit-picking robot with precision AI control | Raspberry Pi · AI · Servo Control |
+|  **Driver Safety System** | Real-time drowsiness & alcohol detection with alerts | Pi · Arduino · MediaPipe · MQ-3 |
+|  **Pothole Detection ML** | Road hazard classification from IMU sensor data | Python · Random Forest · Kaggle |
+|  **Adaptive PID Research** | Fixed vs adaptive autonomous steering control study | MATLAB · Simulink · Control Theory |
 
 ## 🌍 My Vision
 
@@ -54,15 +52,6 @@ I aim to use AI and robotics to solve real-world problems in Africa, especially 
 [![Profile Views](https://komarev.com/ghpvc/?username=JonasDeltaJarvis&color=00ff88&style=flat-square&label=PROFILE+VIEWS)](https://github.com/JonasDeltaJarvis)
 
 </div>
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-|  **Crucibot** | Fruit-picking robot with precision AI control | Raspberry Pi · AI · Servo Control |
-|  **Driver Safety System** | Real-time drowsiness & alcohol detection with alerts | Pi · Arduino · MediaPipe · MQ-3 |
-|  **Pothole Detection ML** | Road hazard classification from IMU sensor data | Python · Random Forest · Kaggle |
-|  **Adaptive PID Research** | Fixed vs adaptive autonomous steering control study | MATLAB · Simulink · Control Theory |
 
 ---
 
