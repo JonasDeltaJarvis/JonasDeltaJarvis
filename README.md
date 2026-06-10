@@ -55,14 +55,6 @@ I aim to use AI and robotics to solve real-world problems in Africa, especially 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasDeltaJarvis&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=80&section=footer" />
 </div>
