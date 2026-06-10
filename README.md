@@ -39,10 +39,13 @@ Building intelligent systems that solve real-world problems
 I aim to use AI and robotics to solve real-world problems in Africa, especially in mining, automation, and smart systems.
 
 ## Connect With Me
-
-- GitHub: https://github.com/JonasDeltaJarvis
-- Email: jonasmukendengejunior@gmail.com
 <div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-JonasDeltaJarvis-181717?style=for-the-badge&logo=github)](https://github.com/JonasDeltaJarvis)
+[![Email](https://img.shields.io/badge/Email-jonasmukendengejunior%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasmukendengejunior@gmail.com)
+
+</div>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Jonas+Mukendenge;Cambridge+A-Level+Student;AI+%26+Robotics+Engineer;Building+the+Future+from+Zambia+%F0%9F%87%BF%F0%9F%87%B2" alt="Typing SVG" />
 
@@ -119,15 +122,6 @@ I aim to use AI and robotics to solve real-world problems in Africa, especially 
 > *"Africa's greatest resource is not its minerals — it's its engineers. I'm building a future where African innovators lead the world in autonomous systems and intelligent machines."*
 
 ---
-
-### 📬 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-JonasDeltaJarvis-181717?style=for-the-badge&logo=github)](https://github.com/JonasDeltaJarvis)
-[![Email](https://img.shields.io/badge/Email-jonasmukendengejunior%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasmukendengejunior@gmail.com)
-
-</div>
 
 ---
 
